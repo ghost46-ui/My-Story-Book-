@@ -1,0 +1,38 @@
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background: #f4f1ea;
+  color: #333;
+}
+
+.book {
+  max-width: 800px;
+  margin: 50px auto;
+  padding: 30px;
+  background: white;
+  border-radius: 10px;
+  box-shadow: 0 10px 30px rgba(0,0,0,0.1);
+}
+
+h1 {
+  text-align: center;
+}
+
+.chapters {
+  display: grid;
+  gap: 10px;
+  margin-top: 30px;
+}
+
+.chapters a {
+  padding: 12px;
+  background: #222;
+  color: white;
+  text-decoration: none;
+  border-radius: 6px;
+  text-align: center;
+}
+
+.chapters a:hover {
+  background: #444;
+}
