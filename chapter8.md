@@ -1,3 +1,6 @@
+[🏠 Home](README.md)
+
+---
 CHAPTER 8: THE INFECTED
 
 A figure stood outside.
@@ -19,3 +22,5 @@ One dropped—but didn’t behave like a normal body. It tried to stand again, a
 Simon grabbed John. “Move!”
 
 They ran.
+---
+⬅️ Previous | [Home](README.md) | Next ➡️
