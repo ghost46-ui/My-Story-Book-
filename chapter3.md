@@ -1,3 +1,6 @@
+[🏠 Home](README.md)
+
+---
 CHAPTER 3: THE SILENCE ONLINE
 
 By night, Simon had already started digging.
@@ -29,3 +32,5 @@ Hours passed.
 Then days.
 
 Work disappeared from his mind entirely.
+---
+⬅️ Previous | [Home](README.md) | Next ➡️
