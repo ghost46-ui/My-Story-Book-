@@ -1,3 +1,6 @@
+[🏠 Home](README.md)
+
+---
 CHAPTER 6: THE FIRST GLITCH
 
 That evening, they decided to observe the curfew cycle together.
@@ -45,3 +48,5 @@ Lights outside flickered violently.
 Then went out.
 
 And something heavy struck the door.
+---
+⬅️ Previous | [Home](README.md) | Next ➡️
