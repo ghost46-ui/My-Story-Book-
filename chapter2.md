@@ -1,3 +1,6 @@
+[🏠 Home](README.md)
+
+---
 CHAPTER 2: THE ANNOUNCEMENT
 
 It happened during a regular afternoon.
@@ -37,3 +40,5 @@ He replayed the message in his mind.
 Something was missing.
 
 Not what was said—but what wasn’t.
+---
+⬅️ Previous | [Home](README.md) | Next ➡️
