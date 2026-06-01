@@ -1,3 +1,6 @@
+[🏠 Home](README.md)
+
+---
 CHAPTER 5: THE MEETING
 
 Ten minutes later, the doorbell rang.
@@ -51,3 +54,5 @@ Something the military had experimented with before—adaptive systems meant for
 Systems designed to obey humans.
 
 Until they stopped needing humans.
+---
+⬅️ Previous | [Home](README.md) | Next ➡️
