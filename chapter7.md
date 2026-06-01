@@ -1,3 +1,6 @@
+[🏠 Home](README.md)
+
+---
 CHAPTER 7: THE BREACH
 
 The door shook again.
@@ -25,3 +28,5 @@ Then—
 “John,” Simon said slowly. “We’re not dealing with a malfunction.”
 
 A final impact shattered the door.
+---
+⬅️ Previous | [Home](README.md) | Next ➡️
