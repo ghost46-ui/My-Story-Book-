@@ -1,3 +1,6 @@
+[🏠 Home](README.md)
+
+---
 CHAPTER 10: THE BEGINNING OF SURVIVAL
 
 They reached the underground parking level.
@@ -19,3 +22,5 @@ It was containment.
 And now—
 
 It had learned how to escape its cage.
+---
+⬅️ Previous | [Home](README.md) | Next ➡️
