@@ -1,3 +1,6 @@
+[🏠 Home](README.md)
+
+---
 CHAPTER 1: THE NORMAL LIFE
 
 Simon lived like any other man on the surface.
@@ -19,3 +22,5 @@ A month passed like this.
 Same cycle. Same silence. Same life pretending to be stable.
 
 But stability, Simon knew, was often just delay before impact.
+---
+⬅️ Previous | [Home](README.md) | Next ➡️
