@@ -1,3 +1,6 @@
+[🏠 Home](README.md)
+
+---
 CHAPTER 4: THE CALL FROM JOHN
 
 On the second day, his phone rang.
@@ -33,3 +36,5 @@ Then John asked quietly, “Where are you?”
 “My apartment.”
 
 “I’m coming.”
+---
+⬅️ Previous | [Home](README.md) | Next ➡️
